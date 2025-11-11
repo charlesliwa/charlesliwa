@@ -6,7 +6,7 @@
 ##  Learning Journey 
 
 - [AI & Machine Learning]()
-- [Web Development]()
+- [Web Development](https://github.com/charlesliwa/web-development)
 - [Data Structures and Algorithms]()
 - [Computer Science]()
 - [CCNA]()
