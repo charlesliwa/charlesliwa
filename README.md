@@ -7,7 +7,7 @@
 
 
 - [Web Developer](https://github.com/charlesliwa/web-developer)
-- [Software Developer]()
+- [Software Developer](https://github.com/charlesliwa/software-developer)
 - [Data Structures and Algorithms]()
 - [Computer Science]()
 - [AI & Machine Learning]()
