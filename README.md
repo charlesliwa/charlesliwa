@@ -5,16 +5,12 @@
 
 ##  Learning Journey 
 
-- [HTML-CSS-JavaScript](https://github.com/devliwa/html-css-js-projects)
-- [Node.js with Express.js](https://github.com/devliwa/node.js-projects)
-- [Application Programming Interfaces(APIs)](https://github.com/devliwa/APIs-projects)
-- [Databases with PostgreSQL](https://github.com/devliwa/Databases-with-PostgreSQL)
-- [Authentication and Security](https://github.com/devliwa/authentication-and-security)
-- [React.js](https://github.com/devliwa/React.js)
-- [Decentralised Finance]()
-- [Python](https://github.com/devliwa/python)<!-- - [iOS App]() -->
-- [Figma](https://github.com/devliwa/figma)<!--[Business English](https://github.com/devliwa/business-english)<!-- [CCNA 200-301 v1.1](https://github.com/devliwa/ccna) -->
-- [Data Science](https://github.com/devliwa/data-science)
+- [AI & Machine Learning]()
+- [Web Development]()
+- [Data Structures and Algorithms]()
+- [Computer Science]()
+- [CCNA]()
+
   
 ## My Tools
 - [codesandbox.io](codesandbox.io)
