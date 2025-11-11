@@ -6,7 +6,7 @@
 ##  Learning Journey 
 
 
-- [Web Developer](https://github.com/charlesliwa/web-development)
+- [Web Developer](https://github.com/charlesliwa/web-developer)
 - [Software Developer]()
 - [Data Structures and Algorithms]()
 - [Computer Science]()
