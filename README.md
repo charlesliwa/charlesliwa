@@ -3,7 +3,7 @@
 
 ---
 
-##  Learning Journey 
+##  My Focus 
 
 
 - [Web Developer](https://github.com/charlesliwa/web-developer)
