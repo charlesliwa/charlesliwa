@@ -8,9 +8,6 @@
 
 - [Web Developer](https://github.com/charlesliwa/web-developer)
 - [Software Developer](https://github.com/charlesliwa/software-developer)
-- [Data Structures and Algorithms]()
-- [Computer Science]()
-- [AI & Machine Learning]()
 - [CCNA](https://github.com/charlesliwa/ccna)
 
   
