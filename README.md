@@ -8,7 +8,7 @@
 
 - [Web Developer](https://github.com/charlesliwa/web-developer)
 - [Software Developer](https://github.com/charlesliwa/software-developer)
-- [CCNA](https://github.com/charlesliwa/ccna)
+- [Ccna](https://github.com/charlesliwa/ccna)
 
   
 ## My Tools
