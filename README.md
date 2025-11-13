@@ -1,3 +1,11 @@
+## My Portfolio
+
+- [Blog Web Application](https://github.com/devliwa/capstone-project-economics-blog)
+- [Use a Public API](https://github.com/devliwa/Weather-App)
+- [Book Notes](https://github.com/devliwa/Mind-Note)
+- [React Projects](https://github.com/devliwa/React-Projects)
+
+
 ##  Learned 
 
 - [HTML-CSS-JavaScript](https://github.com/devliwa/html-css-js-projects)
