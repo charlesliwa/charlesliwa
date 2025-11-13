@@ -6,7 +6,7 @@
 - [Databases with PostgreSQL](https://github.com/devliwa/Databases-with-PostgreSQL)
 - [Authentication and Security](https://github.com/devliwa/authentication-and-security)
 - [React.js](https://github.com/devliwa/React.js)
-- [Decentralised Finance]()
+- [Decentralised Finance](https://github.com/charlesliwa/decentralised-finance)
 - [Python](https://github.com/devliwa/python)
 - [iOS App]() 
 - [Figma](https://github.com/devliwa/figma)
