@@ -10,6 +10,7 @@
 - [Python](https://github.com/devliwa/python)
 - [iOS App]() 
 - [Figma](https://github.com/devliwa/figma)
+- [Data Science](https://github.com/devliwa/data-science)
 
 
 ## Skills  
